@@ -16,7 +16,7 @@ Cấu hình và link sản phẩm tới Metamask
 Sử dụng sản phẩm
 - Sản phầm bao gồm 3 phần chính : Upload image (ví dụ thay thế cho nft), get data và share
 Upload image:
-- Sẽ add ảnh vào tài khoản, khi add ảnh metamask sẽ pop up yêu cầu confirm transaction
+- Lựa chọn add ảnh vào tài khoản, khi add ảnh metamask sẽ pop up yêu cầu confirm transaction
 - Xác nhận transaction để upload image
 Get data:
 - Nhập private key vào ô trống và chọn get data
