@@ -8,6 +8,7 @@ Deploy sản phẩm
 - chạy npm start
 
 Cấu hình và link sản phẩm tới Metamask
+- Cài đặt extension MetaMask
 - Lựa chọn mục network
 - Chọn add network manually và thêm mạng localhost với RPC URL là http://localhost:8545 do Hardhat node được host mặc định tại port 8545
 - Lựa chọn thêm Account, thêm account bằng private key được tạo bởi hardhat node
