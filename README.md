@@ -2,7 +2,7 @@ Deploy sản phẩm
 - chạy npm install để cài đặt dependency
 - chạy npx hardhat compile để compile hardhat
 - chạy npx hardhat node để khởi động hardhat, lưu lại 20 tài khoản được hardhat emulate
-- chạy npx hardhat scripts/deploy.js --network localhost để deploy tài khoản nhận thanh toán hardhat, lưu lại địa chỉ deploy và thay vào contractaddress trong file app.js
+- chạy npx hardhat run scripts/deploy.js --network localhost để deploy tài khoản nhận thanh toán hardhat, lưu lại địa chỉ deploy và thay vào contractaddress trong file app.js
 - di chuyển tới folder frontend
 - chạy npm install để cài đặt dependency
 - chạy npm start
